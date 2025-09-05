@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">txtfile</string>
+    <string name="save">Save</string>
+    <string name="open">Open</string>
+    <string name="compile">Compile</string>
+    <string name="new_file">+ New File</string>
+    <string name="editora">Editora</string>
+    <string name="type_here">Type here...</string>
+    <string name="undo_desc">Undo</string>
+    <string name="redo_desc">Redo</string>
+    <string name="find_replace_desc">Find_Replace</string>
+    <string name="lines">Number of Lines : </string>
+    <string name="output">Output : </string>
+    <string name="copy_desc">Copy</string>
+    <string name="paste_desc">Paste</string>
+    <string name="edit_desc">Edit</string>
+    <!--Labels-->
+    <string name="word_count">Words: 0</string>
+    <string name="char_count">Characters: 0</string>
+    <string name="line_count">Lines: 0</string>
+    <string name="language_label">Language:</string>
+    <string name="language">Language: %s</string>
+
+    <!-- Toast Messages -->
+    <string name="file_saved">File saved Successfully!</string>
+    <string name="file_opened">File opened Successfully!</string>
+    <string name="file_save_error">Error saving file: %1$s</string>
+    <string name="file_open_error">Error opening file: %1$s</string>
+    <string name="save_cancelled">Save cancelled</string>
+    <string name="open_cancelled">Open cancelled</string>
+    <string name="empty_text">Text is empty!</string>
+    <string name="copied">Copied to clipboard</string>
+    <string name="edit_enabled">Edit Mode Enabled</string>
+    <string name="edit_disabled">Read-Only Mode</string>
+    <string name="replace_success">Replaced successfully</string>
+    <string name="new_file_created">New file Created!</string>
+    <string name="compile_success">Code compiled successfully!</string>
+    <string name="compile_empty">Nothing to compile!</string>
+
+    <!-- Dialogs -->
+    <string name="choose_extension">Choose file extension</string>
+    <string name="find_hint">Find…</string>
+    <string name="replace_hint">Replace with…</string>
+    <string name="find_replace_title">Find and Replace</string>
+    <string name="replace">Replace</string>
+    <string name="cancel">Cancel</string>
+
+</resources>

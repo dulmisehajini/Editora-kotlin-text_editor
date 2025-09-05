@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#DCDCDC</color>
+
+    <!-- App Theme Colors (existing + extended for syntax) -->
+    <color name="purple_500">#7C4DFF</color>   <!-- Keyword color -->
+    <color name="green_500">#43A047</color>    <!-- String color -->
+    <color name="gray_500">#9E9E9E</color>     <!-- Comment color -->
+    <color name="orange_500">#F57C00</color>   <!-- Number color -->
+    <color name="blue_500">#0000FF</color>     <!-- Operator color -->
+
+    <!-- Syntax Highlighting Specific -->
+    <color name="keywordColor">#7C4DFF</color>    <!-- Purple for keywords -->
+    <color name="stringColor">#43A047</color>     <!-- Green for strings -->
+    <color name="commentColor">#9E9E9E</color>    <!-- Gray for comments -->
+    <color name="numberColor">#F57C00</color>     <!-- Orange for numbers -->
+    <color name="operatorColor">#0000FF</color>   <!-- Blue for operators -->
+    <color name="syntax_annotation">#AA00FF</color> <!-- Optional: Magenta for annotations -->
+    <color name="syntax_function">#1976D2</color>   <!-- Optional: Blue for functions -->
+    <color name="syntax_variable">#00897B</color>   <!-- Optional: Teal for variables -->
+</resources>

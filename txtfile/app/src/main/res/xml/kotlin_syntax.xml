@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language name="Kotlin" extensions="kt,kts">
+    <keywords>
+        <keyword>abstract</keyword>
+        <keyword>actual</keyword>
+        <keyword>annotation</keyword>
+        <keyword>as</keyword>
+        <keyword>break</keyword>
+        <keyword>class</keyword>
+        <keyword>fun</keyword>
+        <keyword>val</keyword>
+        <keyword>var</keyword>
+    </keywords>
+    <operators>
+        <operator>\+</operator>
+        <operator>-</operator>
+        <operator>\*</operator>
+        <operator>/</operator>
+        <operator>=</operator>
+        <operator>==</operator>
+    </operators>
+    <numbers>\b\d+(\.\d+)?\b</numbers>
+    <strings>"([^"\\]|\\.)*"</strings>
+    <comments>//.*?$|/\*[\s\S]*?\*/</comments>
+    <functions>\bfun\s+[a-zA-Z_][a-zA-Z0-9_]*\s*\(</functions>
+</language>

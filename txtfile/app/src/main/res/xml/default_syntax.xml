@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language name="Default" extensions="">
+    <keywords>
+        <keyword></keyword>
+    </keywords>
+    <operators>
+        <operator></operator>
+    </operators>
+    <numbers>\b\d+\b</numbers>
+    <strings>"([^"\\]|\\.)*"</strings>
+    <comments>//.*?$</comments>
+</language>
